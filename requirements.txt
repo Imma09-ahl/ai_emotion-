@@ -1,0 +1,13 @@
+# Deep Learning & Vision par ordinateur
+torch
+torchvision
+
+# Traitement d'images et détection faciale
+opencv-python
+pillow
+numpy
+
+# Visualisation & Métriques d'évaluation
+matplotlib
+scikit-learn
+

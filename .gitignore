@@ -1,0 +1,30 @@
+# Fichiers de bytecode et caches Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environnements virtuels
+.venv/
+venv/
+env/
+ENV/
+
+# Fichiers de configuration des éditeurs et IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Données brutes volumineuses et modèles exportés
+data/raw/*
+*.h5
+*.keras
+*.pt
+*.pth
+*.onnx
+
+# Fichiers temporaires et système
+.DS_Store
+Thumbs.db
+*.log
+
